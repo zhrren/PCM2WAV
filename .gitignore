@@ -1,0 +1,12 @@
+.nuget
+.vs
+*.user
+*.suo
+*.mdf
+packages
+TestResults
+bin
+obj
+debug
+logs
+Backup
